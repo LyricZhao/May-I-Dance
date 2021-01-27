@@ -4,3 +4,6 @@
 [submodule "Aliyun-OSS-Cloud"]
 	path = Aliyun-OSS-Cloud
 	url = git@github.com:LyricZhao/Aliyun-OSS-Cloud.git
+[submodule "May-I-Dance-Ticket"]
+	path = May-I-Dance-Ticket
+	url = git@github.com:LyricZhao/May-I-Dance-Ticket.git
